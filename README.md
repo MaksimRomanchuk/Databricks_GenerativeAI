@@ -1,2 +1,2 @@
 # Databricks_GenerativeAI
-AI Sport Coach based on your Strava Activities
+AI Sport Coach based on Strava Activities
